@@ -10,8 +10,8 @@ ID = ''
 PW = ''
 
 ####### 봇 초대 차단 필수 #######
-token = 'ODg4NDA2MTExNzY0NTA0NjI2.YUSOqg.UvKHhdXlrnvR6VFv0mXIIyfvPcA'
-chargelogchannel = 889452688796975135
+token = ''
+chargelogchannel = 
 
 client = discord.Client()
 DiscordComponents(client)

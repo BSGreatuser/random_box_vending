@@ -1,2 +1,1 @@
-# random_box_vending
-랜덤박스 자판기
+주문제작 먹튀 당한거
